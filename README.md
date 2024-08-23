@@ -1,2 +1,2 @@
 # mygitactions
-First time using Github Actions
+First time using GitHub Actions
